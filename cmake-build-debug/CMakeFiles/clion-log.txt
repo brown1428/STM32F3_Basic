@@ -1,0 +1,5 @@
+"/Users/macbookpro14/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/macbookpro14/Dropbox/Coding/C/STM32/STM_Basic
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/macbookpro14/Dropbox/Coding/C/STM32/STM_Basic/cmake-build-debug

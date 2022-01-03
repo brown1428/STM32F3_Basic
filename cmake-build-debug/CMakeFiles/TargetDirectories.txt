@@ -1,0 +1,3 @@
+/Users/macbookpro14/Dropbox/Coding/C/STM32/STM_Basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/macbookpro14/Dropbox/Coding/C/STM32/STM_Basic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/macbookpro14/Dropbox/Coding/C/STM32/STM_Basic/cmake-build-debug/CMakeFiles/STM_Basic.elf.dir
